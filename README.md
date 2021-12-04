@@ -1,2 +1,7 @@
 # Elasticsearch Index Lifecycle Management
-Bash script for ILM(simply delete indices) of multiple indices and cycle
+## 배경
+test
+## 구성
+test
+## 작동
+test
