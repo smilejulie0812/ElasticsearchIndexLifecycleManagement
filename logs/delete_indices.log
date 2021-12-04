@@ -1,0 +1,6 @@
+[2021-12-03 20:35:35] There is no index index01-2021.11.22 to delete
+[2021-12-04 09:25:02] Delete index "index02-2021.11.27"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+^M  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0^M  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0^M  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0^M100    21  100    21    0     0      8      0  0:00:02  0:00:02 --:--:--     8^M100    21  100    21    0     0      8      0  0:00:02  0:00:02 --:--:--     8
+{"acknowledged":true}[2021-12-04 09:25:08] Delete Failure index "index02-2021.11.27" : check file delete_indices.log
