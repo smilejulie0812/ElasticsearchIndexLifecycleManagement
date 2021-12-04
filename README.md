@@ -16,8 +16,8 @@ https://www.elastic.co/guide/en/elasticsearch/reference/current/index-lifecycle-
 * **logs/delete_indices.log** : 스크립트로부터 출력된 로그 파일.
 
 ## 설정
-* delete_indices.sh 스크립트는 매일 아침 9시 25분에 실행된다(Elasticsearch 의 timezone 이 UTC 로 설정되어 있어,  
-* 해당 시간에 가까운 동시에 인덱스 생성에 방해되지 않을 시간을 설정)
+* delete_indices.sh 스크립트는 매일 아침 9시 25분에 실행  
+(Elasticsearch 의 timezone 이 UTC 로 설정되어 있어, 해당 시간에 가까운 동시에 인덱스 생성에 방해되지 않을 시간을 설정)
 ```
 25 9 * * * /home/smileejulie/elklifecycle/delete_indices.sh
 ```
