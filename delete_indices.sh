@@ -7,6 +7,7 @@
 # AUTHOR : smileejulie
 # CREATE DATE : 2021.08.10
 # REVICE DATE : 2021.12.04
+# COMMAND : ./delete_indices.sh
 #######################################
 
 ### VARIABLES
